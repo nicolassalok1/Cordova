@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "cordova emulate ios"
+}
